@@ -6,8 +6,8 @@ description = "Hugo theme starter with Tailwindcss support"
 license = "MIT"
 licenselink = "https://github.com/victorocna/ion/blob/master/LICENSE"
 homepage = "https://github.com/victorocna/ion"
-tags = ["Hugo", "Theme", "Starter"]
-features = []
+tags = ["Hugo", "Theme", "Starter", "Minimalist", "Generic", "Tailwindcss"]
+features = ["Tailwindcss", "Hugo Pipes"]
 min_version = "0.41"
 
 [author]
